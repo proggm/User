@@ -1,0 +1,8 @@
+E:\проекты\Users\Users\bin\Debug\Users.exe.config
+E:\проекты\Users\Users\bin\Debug\Users.exe
+E:\проекты\Users\Users\bin\Debug\Users.pdb
+E:\проекты\Users\Users\obj\Debug\Users.csproj.AssemblyReference.cache
+E:\проекты\Users\Users\obj\Debug\Users.csproj.SuggestedBindingRedirects.cache
+E:\проекты\Users\Users\obj\Debug\Users.csproj.CoreCompileInputs.cache
+E:\проекты\Users\Users\obj\Debug\Users.exe
+E:\проекты\Users\Users\obj\Debug\Users.pdb
